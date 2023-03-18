@@ -71,5 +71,5 @@ Follow the instructions in `Tennis.ipynb` to get started with training your own 
 ### Training result
 ![video](images/result.gif)
 
-![result](images/result.png)
+![result](images/result.PNG)
 
